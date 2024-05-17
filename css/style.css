@@ -1,0 +1,10 @@
+.full-body{
+    min-height: 100vh;
+    min-width: 100vw;
+}
+.bg-temp{
+    background-color: grey;
+    padding: 100px 0;
+    border: 1px solid black;
+    border-radius: 25px;
+}
